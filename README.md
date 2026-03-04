@@ -36,10 +36,6 @@ I am a **BSc. (Hons) in Computer Science** student at the **University of Kelani
 ---
 
 ### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnumiVithana&show_icons=true&theme=tokyonight&hide_border=true" alt="Anumi's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnumiVithana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnumiVithana&theme=tokyonight&hide_border=true" alt="Streak" />
