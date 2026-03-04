@@ -1,4 +1,4 @@
-# Hi, I'm Anumi Punara Vithana! 👋
+# Hi, I'm Anumi Punara Vithana! 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=435&lines=CS+Undergraduate;Cloud+Computing+Enthusiast;Aspiring+Project+Manager;Backend+Developer" alt="Typing SVG" />
 </p>
