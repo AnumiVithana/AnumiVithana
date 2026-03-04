@@ -1,41 +1,60 @@
 # Hi, I'm Anumi Punara Vithana! 👋
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=435&lines=CS+Undergraduate;Cloud+Computing+Enthusiast;Aspiring+Project+Manager;Backend+Developer" alt="Typing SVG" />
+</p>
 
-### 🎓 Undergraduate in Computer Science
-I am a BSc. (Hons) in Computer Science student at the **University of Kelaniya, Sri Lanka**. I'm passionate about development, and most importantly cloud computing and project management.
+---
+
+### 🎓 About Me
+I am a **BSc. (Hons) in Computer Science** student at the **University of Kelaniya, Sri Lanka**. 
+- ☁️ Currently exploring **Cloud Infrastructure & Architecture**.
+- 📊 Passionate about **Agile Project Management** and Technical Leadership.
+- 🛠️ Building scalable backend solutions and intelligent AI agents.
+
 ---
 
 ### 🛠 My Tech Stack
 
-**Languages**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-**Backend & Frameworks**
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+**Languages & Frameworks**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,kotlin,cs,dotnet,mysql,postman,androidstudio,git,github,vscode,docker,aws" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Highlight Projects
+### 🚀 Featured Projects
 
-* **[Inklet](https://github.com/AnumiVithana/Inklet_App_SpringBoot)**: A social media web application built with **Spring Boot**.
-* **[Wumpus AI Agent](https://github.com/AnumiVithana/Wumpus_AI_Agent)**: An intelligent agent exploring logical inference and decision-making in Python.
-* **[Events Tracker](https://github.com/AnumiVithana/Events_Tracker_Mobile_Application)**: A mobile solution developed using **Kotlin**.
-* **[P2P File Sharing](https://github.com/AnumiVithana/Peer_to_Peer_File_Sharing_Application)**: A networking application using socket programming in Java.
-
----
-
-### 📊 GitHub Stats
-![Anumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnumiVithana&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnumiVithana&layout=compact&theme=tokyonight)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Inklet](https://github.com/AnumiVithana/Inklet_App_SpringBoot)** | Social media web application with secure auth. | `Spring Boot` `Java` `MySQL` |
+| **[Wumpus AI](https://github.com/AnumiVithana/Wumpus_AI_Agent)** | Intelligent agent for logical decision-making. | `Python` `AI` |
+| **[Events Tracker](https://github.com/AnumiVithana/Events_Tracker_Mobile_Application)** | Mobile event management solution. | `Kotlin` `Android` |
+| **[P2P Sharing](https://github.com/AnumiVithana/Peer_to_Peer_File_Sharing_Application)** | Network socket programming for file transfers. | `Java` `Networking` |
 
 ---
 
-### 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/anumi-vithana-96239b296)
-- 🌐 [Personal Portfolio](https://anumivithana.github.io/Portfolio_Website/)
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnumiVithana&show_icons=true&theme=tokyonight&hide_border=true" alt="Anumi's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnumiVithana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnumiVithana&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
 
 ---
+
+### 📫 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/anumi-vithana-96239b296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anumi Vithana" height="30" width="40" /></a>
+<a href="https://anumivithana.github.io/Portfolio_Website/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnumiVithana&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
