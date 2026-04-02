@@ -5,15 +5,15 @@
 
 ---
 
-### 🎓 About Me
+###  About Me
 I am a **BSc. (Hons) in Computer Science** student at the **University of Kelaniya, Sri Lanka**. 
-- ☁️ Currently exploring **Cloud Infrastructure & Architecture**.
-- 📊 Passionate about **Agile Project Management** and Technical Leadership.
-- 🛠️ Building scalable backend solutions and intelligent AI agents.
+-  Currently exploring **Cloud Infrastructure & Architecture**.
+-  Passionate about **Agile Project Management** and Technical Leadership.
+-  Building scalable backend solutions and intelligent AI agents.
 
 ---
 
-### 🛠 My Tech Stack
+###  My Tech Stack
 
 **Languages & Frameworks**
 <p align="left">
@@ -24,7 +24,7 @@ I am a **BSc. (Hons) in Computer Science** student at the **University of Kelani
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -35,7 +35,7 @@ I am a **BSc. (Hons) in Computer Science** student at the **University of Kelani
 
 ---
 
-### 📊 GitHub Insights
+###  GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnumiVithana&theme=tokyonight&hide_border=true" alt="Streak" />
@@ -43,7 +43,7 @@ I am a **BSc. (Hons) in Computer Science** student at the **University of Kelani
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/anumi-vithana-96239b296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anumi Vithana" height="30" width="40" /></a>
 <a href="https://anumivithana.github.io/Portfolio_Website/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
